@@ -1,1 +1,5 @@
 .vscode/
+input.txt
+output.txt
+__pycache__/ # Ignores Python's compiled bytecode files (important!)
+*.pyc       # Ignores other Python compiled bytecode files
